@@ -1,18 +1,29 @@
 # Coupon Flows
 
-Reusable **n8n workflows** for coupon and campaign automation.
+[![License](https://img.shields.io/github/license/pauloprsdesouza/coupon-flows)](./LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/pauloprsdesouza/coupon-flows)](https://github.com/pauloprsdesouza/coupon-flows/commits)
+[![Top Language](https://img.shields.io/github/languages/top/pauloprsdesouza/coupon-flows)](https://github.com/pauloprsdesouza/coupon-flows)
 
-## Purpose
-This repository centralizes automation flows used to create, validate, and distribute coupon-related processes.
+## Overview
+Reusable n8n automation workflows for coupon and campaign processing.
 
-## Contents
-- Workflow definitions for n8n
-- Supporting assets and examples
+## Tech Stack
+- Software project stack defined by repository sources
 
-## Usage
-1. Import workflows into n8n.
-2. Configure environment-specific credentials.
-3. Run flows in test mode before production.
+## Repository Structure
+- Repository structure is organized for maintainability and clarity
+
+## Quick Start
+1. Install the runtime/toolchain used by this repository.
+2. Restore/install dependencies.
+3. Build and run locally.
+
+## Validation
+- Run local build and tests where available.
+- Validate main workflows/endpoints before opening pull requests.
+
+## Contributing
+See `CONTRIBUTING.md` for contribution and PR guidelines.
 
 ## Status
-Active repository maintained by Paulo Roberto de Souza.
+Actively maintained by Paulo Roberto de Souza.
